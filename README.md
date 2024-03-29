@@ -41,6 +41,8 @@ Online sales dashboard, created as a final project for the Data Analyst Professi
 - Navigation buttons
 - DataViz with Figma and advanced storytelling
 
+<img width="1232" alt="Mestre Electronics" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/cf45e434-e146-4790-b0db-a0469aa10fa6">
+
 ### [Commercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRmZDhiMzgtNDUzNS00YWNmLWE3OTYtNWI3ODk0ZjQyM2UyIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
 
 Sales dashboard, created as a final project for the Power BI Fundamentals course.
@@ -57,6 +59,8 @@ Sales dashboard, created as a final project for the Power BI Fundamentals course
 - Basic data modelling and DAX
 - Introduction to forescasting
 - DataViz with basic Figma
+
+<img width="1232" alt="Commercial Dashboard" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/d0694659-0cb8-4b57-9b94-185e6be0e7b8">
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/marinauyeda/)
