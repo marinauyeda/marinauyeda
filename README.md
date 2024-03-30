@@ -7,7 +7,7 @@ Back in the day, my adventure began in an unexpected role: being the bridge betw
 
 Fast forward a bit, and there I was, venturing into the land of dashboards. Google Looker Studio became my first ally since Power BI and Google Sheets weren’t on speaking terms yet. Crafting those initial dashboards was no walk in the park, especially in a company where data wasn't the main actor on stage. Yet, I was determined to spotlight how crucial data could be for our decisions. Today, those dashboards aren’t just tools; they’re essentials, relied upon by top brass and key stakeholders alike in the projects I’m passionate about.
 
-Emboldened by the success of my dashboard crusades, I introduced Power BI to our toolkit, marking a new chapter in our data-driven narrative. And because I can't help but dive deeper, I'm now expanding my arsenal with Python, SQL, Databricks, and more. It's like I've found the secret passage to the treasure trove of data analytics, and there's no turning back.
+Emboldened by the success of my dashboard crusades, I introduced Power BI to our toolkit, marking a new chapter in our data-driven narrative. And because I can't help but dive deeper, I'm now expanding my arsenal with Python, SQL, and more. It's like I've found the secret passage to the treasure trove of data analytics, and there's no turning back.
 
 So, what's in my utility belt? 🛠️
 
@@ -17,7 +17,7 @@ So, what's in my utility belt? 🛠️
 
 - **Trailblazing:** In a realm where data wasn’t king, I championed its cause, integrating Power BI and pioneering analytics practices that have become foundational to our business strategy.
 
-- **Continuous Learner and Innovator:** Every day is a quest for knowledge, whether it's mastering Python, unraveling the secrets of SQL, or exploring the potential of Databricks. My journey is about pushing boundaries and elevating our data game.
+- **Continuous Learner and Innovator:** Every day is a quest for knowledge, whether it's mastering Python, or unraveling the secrets of SQL. My journey is about pushing boundaries and elevating our data game.
 
 From a novice in the art of Excel to a maestro in the symphony of data analytics, my journey is a testament to the power of curiosity, determination, and the transformative potential of data. Ready to join me on this adventure?
 
