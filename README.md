@@ -62,6 +62,21 @@ Sales dashboard, created as a final project for the Power BI Fundamentals course
 
 <img width="1232" alt="Commercial Dashboard" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/d0694659-0cb8-4b57-9b94-185e6be0e7b8">
 
+## [Python Projects](https://github.com/marinauyeda/marinauyeda/tree/main/python_projects)
+
+### [Car Rental Company Software](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/car_rental_project.ipynb)
+
+A basic management software created for a car rental company, created as one of the projects in the Python Starter couse.
+
+#### Context
+
+The goal of this project is to develop an algorithm for a car rental company. The customer should be presented with car options and prices. After selecting the car and duration of rental, there's a grand total at the end.
+
+#### Tools and skills
+
+- Basic Python language
+- Developed on Jupyter Lab and Virtual Studio Code
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/marinauyeda/)
 - [E-mail](marinauyeda@gmail.com)
