@@ -21,6 +21,8 @@ So, what's in my utility belt? 🛠️
 
 From a novice in the art of Excel to a maestro in the symphony of data analytics, my journey is a testament to the power of curiosity, determination, and the transformative potential of data. Ready to join me on this adventure?
 
+For more details, check out my [CV](https://github.com/marinauyeda/marinauyeda/blob/main/CV%20-%20Marina%20Uyeda.pdf).
+
 ## Power BI Projects
 
 ### [Mestre Electronics](https://app.powerbi.com/view?r=eyJrIjoiZTVlYWY2ZjYtMzgxYy00ODUxLTg5NGUtMmY5MWZiODcxNTAzIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9&pageName=ReportSection841f2713e7958651a51a)
