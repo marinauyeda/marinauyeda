@@ -66,6 +66,18 @@ Sales dashboard, created as a final project for the Power BI Fundamentals course
 
 ## [Python Projects](https://github.com/marinauyeda/marinauyeda/tree/main/python_projects)
 
+### [Rock, Paper, Scissors Project](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/rock_paper_scissors_complete.ipynb)
+
+A simple rock, paper, scissors game for Mac Terminal.
+
+#### Context
+
+The goal of this project was to develop a simple game, using basic Python structures.
+
+#### Tools and skills
+- Basic Python language
+- Main code developed on [VSCode](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/car_rental_project.ipynb) to play on Mac Terminal and final file with markdown explanation on Jupyter Lab
+
 ### [Car Rental Company Software](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/car_rental_project.ipynb)
 
 A basic management software created for a car rental company, created as one of the projects in the Python Starter couse.
@@ -77,7 +89,7 @@ The goal of this project is to develop an algorithm for a car rental company. Th
 #### Tools and skills
 
 - Basic Python language
-- Developed on Jupyter Lab and Virtual Studio Code
+- Developed on Jupyter Lab and VSCode
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/marinauyeda/)
