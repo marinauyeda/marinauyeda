@@ -45,6 +45,25 @@ Online sales dashboard, created as a final project for the Data Analyst Professi
 
 <img width="1232" alt="Mestre Electronics" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/cf45e434-e146-4790-b0db-a0469aa10fa6">
 
+### [PBIDist](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjIwM2E2ZjItMzJjNS00YTBkLThlZGUtMzAzMGU5OTIxYTZkIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
+
+Sales dashboard for PBIDist Company, created during the PBI Week event.
+
+#### Context and Overview
+
+- Brief company overview during 2019 and 2020
+- Treemap for in depth analysis of company revenue
+- Top influencers chart
+
+#### Skills and approach
+
+- ETL on Excel spreadsheets grouped by folder
+- Simple data modelling and DAX
+- Tooltip with images com URL
+- DataViz with Figma
+
+<img width="1140" alt="PBIDist_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/9048cdea-fba8-4bbd-988d-d3c67da46de4">
+
 ### [Commercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRmZDhiMzgtNDUzNS00YWNmLWE3OTYtNWI3ODk0ZjQyM2UyIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
 
 Sales dashboard, created as a final project for the Power BI Fundamentals course.
