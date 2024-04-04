@@ -1,4 +1,4 @@
-# Marina Uyeda | Dispute Resolution Manager •⁠ Data Analyst • SQL, Python, Power BI & Looker Studio • Data-Driven Insights & Strategy
+# Dispute Resolution Manager •⁠ Data Analyst • SQL, Python, Power BI & Looker Studio • Data-Driven Insights & Strategy
 
 ## About
 Hey there! 👋 Imagine going from a total Excel newbie in 2019 to being the go-to person for data insights, scripting, and dashboard wizardry. That's my story!
@@ -62,6 +62,10 @@ Human resources dashboard of a logistics company (Klog), created during the PBI 
 - Slicers and parameters within visuals for multiple combinations
 - DataViz with Figma
 
+#### Insights and Perceptions
+
+Taking a closer look at the turnover rate, we realize that age group doesn't significantly impact this KPI, as it doesn't vary much from one age group to another. However, if we examine by position, it becomes apparent that assistants have a hiring issue that deserves attention: not only is their turnover higher, but they also represent a larger portion of the rate of bad hires (we have a lot of turnover because a greater number of people resign within less than 60 days). A good insight in this regard might be to implement a more rigorous selection process for this position.
+
 <img width="1408" alt="Klog cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/a7e1f42d-2ead-437d-90a2-160c58326226">
 
 ### [PBIDist](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjIwM2E2ZjItMzJjNS00YTBkLThlZGUtMzAzMGU5OTIxYTZkIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
@@ -80,6 +84,14 @@ Sales dashboard for PBIDist Company, created during the PBI Week event.
 - Simple data modelling and DAX
 - Tooltip with URL images
 - DataViz with Figma
+
+#### Insights and Perceptions
+
+Overall, by examining the revenue, gross margin, and invoices issued indicators, we observed a considerable increase in the number of invoices from one year to the next. This trend suggests a reduction in the average ticket size (there were more transactions, but with smaller quantities per sale, resulting in a lower value per invoice issued). Ultimately, revenue went up, indicating that this strategy might have worked.
+
+It's also worth noting that wheat flour was sold much more than other products individually, as there was a 224% increase in the issuance of invoices compared to last year.
+
+Another point of analysis is the month of October, where a significant decline was noted. While this drop didn’t appear significant when looking at the sales team’s performance, a closer examination of wheat flour sales revealed a notable disparity in revenue between 2020 and 2019.
 
 <img width="1140" alt="PBIDist_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/9048cdea-fba8-4bbd-988d-d3c67da46de4">
 
