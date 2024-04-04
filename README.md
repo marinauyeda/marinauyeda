@@ -36,7 +36,7 @@ Online sales dashboard, created as a final project for the Data Analyst Professi
 - Continental goals analyzed and apportioned
 - Drill-through for main brands and products
 
-#### Skills and approach
+#### Skills and Approach
 
 - ETL using SSMS and basic SQL language
 - Advanced data modelling and DAX using calculation groups and slicers
@@ -44,6 +44,25 @@ Online sales dashboard, created as a final project for the Data Analyst Professi
 - DataViz with Figma and advanced storytelling
 
 <img width="1232" alt="Mestre Electronics" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/cf45e434-e146-4790-b0db-a0469aa10fa6">
+
+### [Klog](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTBjNmUzZWItNDlmMS00MzE2LWFiYTItYTVlMDk1YmQwN2ZmIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
+
+Human resources dashboard of a logistics company (Klog), created during the PBI Week event.
+
+#### Context and Overview
+
+- Comprehensive overview of hiring and terminations between 2002 and 2020
+- Short-term termination rate analysis (if no more than 60 days passed between hiring and termination), requested by the HR manager
+- Year-by-year updated turnover analysis
+
+#### Skills and Approach
+
+- ETL on Excel spreadsheets
+- Simple data modelling and DAX
+- Slicers and parameters within visuals for multiple combinations
+- DataViz with Figma
+
+<img width="1408" alt="Klog cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/a7e1f42d-2ead-437d-90a2-160c58326226">
 
 ### [PBIDist](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjIwM2E2ZjItMzJjNS00YTBkLThlZGUtMzAzMGU5OTIxYTZkIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
 
@@ -55,11 +74,11 @@ Sales dashboard for PBIDist Company, created during the PBI Week event.
 - Treemap for in depth analysis of company revenue
 - Top influencers chart
 
-#### Skills and approach
+#### Skills and Approach
 
 - ETL on Excel spreadsheets grouped by folder
 - Simple data modelling and DAX
-- Tooltip with images com URL
+- Tooltip with URL images
 - DataViz with Figma
 
 <img width="1140" alt="PBIDist_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/9048cdea-fba8-4bbd-988d-d3c67da46de4">
@@ -74,7 +93,7 @@ Sales dashboard, created as a final project for the Power BI Fundamentals course
 - Managerial analysis and team in-depth analysis
 - Product analysis and seasonality
 
-#### Skills and approach
+#### Skills and Approach
 
 - ETL on Excel spreadsheets
 - Basic data modelling and DAX
