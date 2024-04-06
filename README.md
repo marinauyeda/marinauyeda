@@ -1,4 +1,4 @@
-# Dispute Resolution Manager •⁠ Data Analyst • SQL, Python, Power BI & Looker Studio • Data-Driven Insights & Strategy
+# Dispute Resolution Manager •⁠ Senior Data Analyst • SQL, Python, Power BI & Looker Studio • Data-Driven Insights & Strategy
 
 ## About
 Hey there! 👋 Imagine going from a total Excel newbie in 2019 to being the go-to person for data insights, scripting, and dashboard wizardry. That's my story!
@@ -94,6 +94,31 @@ It's also worth noting that wheat flour was sold much more than other products i
 Another point of analysis is the month of October, where a significant decline was noted. While this drop didn’t appear significant when looking at the sales team’s performance, a closer examination of wheat flour sales revealed a notable disparity in revenue between 2020 and 2019.
 
 <img width="1140" alt="PBIDist_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/9048cdea-fba8-4bbd-988d-d3c67da46de4">
+
+### [Xperia Automotive](https://app.fabric.microsoft.com/view?r=eyJrIjoiYjVjMDRhODktMjNmYS00NmU5LWFhYTctNTZkOTVmMjg1NDlmIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
+
+Financial dashboard for a car dealership (Xperia Automotive), created during the PBI Week challenge.
+
+#### Context and Overview
+
+- Brief financial overview of the company between 2017 and 2018
+- Year-over-Year (YoY) analyses
+- Analyses of the different types of inflow and outflow
+
+#### Skills and Approach
+
+- ETL on Excel spreadsheets grouped by folder
+- Simple data modelling and DAX
+- New chart bar visualization (feb/24)
+- DataViz with Figma
+
+#### Insights and Perceptions
+
+Page 2, which details the analysis in the main states that generated revenue, is still under construction, but it is already clear that the state of São Paulo (SP) accounts for more than 90% of the overall revenue that entered the company.
+
+Furthermore, other possible insights include new states that have started to contribute to the revenue in 2018: Rio Grande do Norte (RN), Tocantins (TO), and Acre (AC).
+
+<img width="1407" alt="Xperia Automotive_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/7bcb02c6-935c-4857-ba23-a4f5162f683c">
 
 ### [Commercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRmZDhiMzgtNDUzNS00YWNmLWE3OTYtNWI3ODk0ZjQyM2UyIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
 
