@@ -129,13 +129,13 @@ Furthermore, other possible insights include new states that have started to con
 
 Employing the principles of Monte Carlo simulation, this Python-based project investigates the impact of introducing an agent of chaos—a gym-goer who consistently returns dumbbells to incorrect locations—within a community of diligent members who strive to maintain order.
 
-### Context
+#### Context
 
 Imagine a gym, a temple of health where the sanctity of order reigns supreme. Dumbbells are lifted and returned with almost religious precision. But what if one individual decides to defy this sacred rule? "Chaos in the Gym" simulates this scenario, employing the Monte Carlo method to inject a degree of unpredictability into an otherwise harmonious environment.
 
 The program models a virtual gym where one "agent of chaos" operates amidst 10, 20, or more participants who adhere to the rules. This simulation iteratively runs scenarios with varying numbers of rule-abiding gym-goers to quantitatively measure the impact of disorder. Through this Monte Carlo approach, the project not only visualizes the immediate effects of misplaced dumbbells but also forecasts the broader implications of such chaos over time.
 
-### Technological Stack
+#### Tech Stack
 
 - Programming Language: Python
 
@@ -157,7 +157,7 @@ A simple rock, paper, scissors game for Mac Terminal.
 
 The goal of this project was to develop a simple game, using basic Python structures.
 
-#### Technological Stack
+#### Tech Stack
 - Basic Python language
 - Main code developed on [VSCode](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/car_rental_project.ipynb) to play on Mac Terminal and final file with markdown explanation on Jupyter Lab
 
@@ -169,7 +169,7 @@ A basic management software created for a car rental company, created as one of 
 
 The goal of this project is to develop an algorithm for a car rental company. The customer should be presented with car options and prices. After selecting the car and duration of rental, there's a grand total at the end.
 
-#### Technological Stack
+#### Tech Stack
 
 - Basic Python language
 - Developed on Jupyter Lab and VSCode
