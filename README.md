@@ -1,27 +1,30 @@
-# Dispute Resolution Manager •⁠ Senior Data Analyst • SQL, Python, Power BI & Looker Studio • Data-Driven Insights & Strategy
+# Hey there! 👋 
+I'm a Data Analyst with 5+ years of experience in lawtech — now diving into fintech and cybersecurity.  
+Currently exploring IAM processes and levelling up in data pipelines, big data analytics, and automation.
 
-## About
-Hey there! 👋 Imagine going from a total Excel newbie in 2019 to being the go-to person for data insights, scripting, and dashboard wizardry. That's my story!
+## Tech Stack
+**• Analytics & BI**  
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![QuickSight](https://custom-icon-badges.demolab.com/badge/QuickSight-00B1F2?logo=amazon&logoColor=fff)](#)
+[![Looker Studio](https://custom-icon-badges.demolab.com/badge/Looker%20Studio-4285F4?logo=google&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-Back in the day, my adventure began in an unexpected role: being the bridge between my team and the PMO company on a project that's been my world ever since. Starting with Pipefy, I was initially just trying to make sense of reports and Google Sheets. It was like learning a new language, but guess what? I got hooked on the power of data.
+**• Languages**  
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)
 
-Fast forward a bit, and there I was, venturing into the land of dashboards. Google Looker Studio became my first ally since Power BI and Google Sheets weren’t on speaking terms yet. Crafting those initial dashboards was no walk in the park, especially in a company where data wasn't the main actor on stage. Yet, I was determined to spotlight how crucial data could be for our decisions. Today, those dashboards aren’t just tools; they’re essentials, relied upon by top brass and key stakeholders alike in the projects I’m passionate about.
-
-Emboldened by the success of my dashboard crusades, I introduced Power BI to our toolkit, marking a new chapter in our data-driven narrative. And because I can't help but dive deeper, I'm now expanding my arsenal with Python, SQL, and more. It's like I've found the secret passage to the treasure trove of data analytics, and there's no turning back.
-
-So, what's in my utility belt? 🛠️
-
-- **Data Storytelling:** From untangling the mysteries of Pipefy reports to mastering the art of dashboard creation, I turn data into compelling narratives that drive action.
-
-- **Dashboard Alchemy:** I transform raw data into gold—visual, impactful, and indispensable tools for decision-making. My dashboards don't just exist; they make a difference.
-
-- **Trailblazing:** In a realm where data wasn’t king, I championed its cause, integrating Power BI and pioneering analytics practices that have become foundational to our business strategy.
-
-- **Continuous Learner and Innovator:** Every day is a quest for knowledge, whether it's mastering Python, or unraveling the secrets of SQL. My journey is about pushing boundaries and elevating our data game.
-
-From a novice in the art of Excel to a maestro in the symphony of data analytics, my journey is a testament to the power of curiosity, determination, and the transformative potential of data. Ready to join me on this adventure?
-
-For more details, check out my [CV](https://github.com/marinauyeda/marinauyeda/blob/main/CV%20-%20Marina%20Uyeda.pdf).
+**• Cloud & Big Data**  
+[![Databricks](https://custom-icon-badges.demolab.com/badge/Databricks-E42B2B?logo=databricks&logoColor=fff)](#)
+[![Spark](https://custom-icon-badges.demolab.com/badge/Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
+  
+## Contact
+<a href="https://www.linkedin.com/in/marinauyeda/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>&nbsp;
+<a href="mailto:marinauyeda@gmail.com?subject=Hello%20Marina&body=I%20saw%20your%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://wa.me/5511971668884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>&nbsp;
+<a href="https://docs.google.com/document/d/17GLjhRqJ4nPxp2xzkQ9UVxBaZyN45K0h/edit?usp=sharing&ouid=111366675921537286478&rtpof=true&sd=true" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?logo=googledrive&logoColor=white"></a>&nbsp;
+<a href="https://app.xperiun.com/in/marinauyeda" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?logo=readthedocs&logoColor=white"></a>
 
 ## Power BI Projects
 
@@ -120,25 +123,6 @@ Furthermore, other possible insights include new states that have started to con
 
 <img width="1407" alt="Xperia Automotive_cover" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/7bcb02c6-935c-4857-ba23-a4f5162f683c">
 
-### [Commercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRmZDhiMzgtNDUzNS00YWNmLWE3OTYtNWI3ODk0ZjQyM2UyIiwidCI6IjVlOWYxZGQwLWE4MDYtNGNhOS04MGE3LWQ3ZTE5MjExZmMxOCJ9)
-
-Sales dashboard, created as a final project for the Power BI Fundamentals course.
-
-#### Context and Overview
-
-- Company overview between 2017 and 2019
-- Managerial analysis and team in-depth analysis
-- Product analysis and seasonality
-
-#### Skills and Approach
-
-- ETL on Excel spreadsheets
-- Basic data modelling and DAX
-- Introduction to forescasting
-- DataViz with basic Figma
-
-<img width="1232" alt="Commercial Dashboard" src="https://github.com/marinauyeda/marinauyeda/assets/165338650/d0694659-0cb8-4b57-9b94-185e6be0e7b8">
-
 ## [Python Projects](https://github.com/marinauyeda/marinauyeda/tree/main/python_projects)
 
 ### [Chaos in the Gym: A Monte Carlo Simulation of Dumbbell Misplacement](https://github.com/marinauyeda/marinauyeda/blob/main/python_projects/chaos_in_the_gym.ipynb)
@@ -189,8 +173,3 @@ The goal of this project is to develop an algorithm for a car rental company. Th
 
 - Basic Python language
 - Developed on Jupyter Lab and VSCode
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/marinauyeda/)
-- [E-mail](marinauyeda@gmail.com)
-- [Mobile](https:/wa.me/5511971668884)
